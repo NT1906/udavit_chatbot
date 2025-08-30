@@ -1,0 +1,26 @@
+The following provides a detailed overview of both core subsidiaries responsible for green hydrogen subsidy disbursement in India—the Ministry of New and Renewable Energy (MNRE) and the National Green Hydrogen Mission (NGHM).[1]
+
+## Ministry of New and Renewable Energy (MNRE)
+
+The **Ministry of New and Renewable Energy (MNRE)** is the premier government body directly responsible for policy, regulation, and implementation of renewable energy initiatives across India. MNRE’s scope spans solar, wind, biomass, small hydro, and increasingly green hydrogen.
+
+- MNRE sets the strategic vision for India’s energy independence and sustainability goals, working with central and state agencies, industry, and research institutes to advance clean energy technologies.
+- It manages funding, incentives, and subsidies for project execution, playing a pivotal role in the approval process for green hydrogen facilities, electrolyser manufacturing, and R&D grants.
+- Under MNRE, national certification standards for green hydrogen are developed, aiming to ensure production from renewable sources is traceable, verifiable, and eligible for market or regulatory incentives.
+- MNRE coordinates international collaborations and export strategies, helping position India as a global leader in both production and consumption of green hydrogen.
+- The ministry works to create frameworks that allow for digital and smart contract-enabled subsidy workflows, paving the way for greater transparency and efficiency in disbursement programs.[1]
+
+## National Green Hydrogen Mission (NGHM)
+
+The **National Green Hydrogen Mission (NGHM)** is MNRE’s signature public initiative, designed to make India the global hub for green hydrogen production, consumption, and export.
+
+- The overarching objective is to transition India towards clean energy and inspire worldwide adoption of decarbonization strategies. The mission is expected to lead to dramatic decarbonization of the economy, reduce dependence on imported fossil fuels, and establish India’s market and technological leadership in green hydrogen.[1]
+- NGHM creates both domestic and export demand for green hydrogen through policy mandates and sectoral targets. India will specify minimum consumption shares for designated industries, such as ammonia, methanol, refineries, and steel, with year-wise escalation determined by the Empowered Group (EG).
+- The mission operationalizes competitive bidding and demand aggregation schemes—project selection and subsidy allocation are performed transparently through open bidding platforms. This is supported by regulatory frameworks for certification, which ensure only “green,” renewable-based hydrogen and derivatives are eligible for incentives and compliance requirements.
+- Exports are a major focus—NGHM supports Indian producers in accessing global markets via partnerships, regulatory harmonization, and logistical support.
+- The mission is designed to serve as an inspiration and blueprint for other countries in clean energy transition, setting new standards in technological innovation and market integration.
+- The implementation integrates digital platforms, certification tools, and prepares the infrastructure for automated, smart contract-enabled payment and compliance mechanisms.[1]
+
+These two government bodies operate in synergy, with MNRE providing policy, funding, and regulatory oversight, and NGHM delivering targeted, strategic programs that shape and grow India’s green hydrogen sector for maximum impact and global competitiveness.[1]
+
+[1](https://nghm.mnre.gov.in/hydrogen-resources?page=all&language=en)
